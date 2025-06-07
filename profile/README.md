@@ -1,12 +1,3 @@
-## Hi there 👋
+# smbCloud
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+SMBCloud is a platform for Next.js deployment, designed to provide secure, scalable, and developer-friendly cloud services. It enables users to deploy, manage, and scale applications with ease, leveraging modern technologies and best practices.
