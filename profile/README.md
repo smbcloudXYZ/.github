@@ -25,4 +25,4 @@ NodeJS runner:
 - https://github.com/smbcloudXYZ/foodandtravel
 
 Ruby runner
-- https://github.com/smbcloudXYZ/techjobsineu
+- [Tech Jobs in EU](https://techjobsineu.5mb.app/)
