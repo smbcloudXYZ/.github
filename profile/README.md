@@ -1,6 +1,6 @@
 # smbCloud
 
-Deploy your NodeJS (with NextJS or Astro), Swift (via Vapor), and Ruby (on Rails) app with one command:
+Deploy your NodeJS (with NextJS or Astro), Swift (via Vapor), Ruby (on Rails), and Rust (on Loco, work-in-progress) app with one command:
 ```bash
 $ smb
 ✔ Valid config
