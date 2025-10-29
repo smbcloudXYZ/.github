@@ -14,6 +14,13 @@ $ smb
 ✔ Deployment complete.
 ```
 
+## siGit Code & Deploy
+
+`smbcloud-cli`, but native apps.
+
+- Download [siGit Code & Deploy on the Apple AppStore](https://apps.apple.com/se/app/sigit-git-client-code-editor/id6753018849).
+- Download [siGit Code & Deploy on the Google PlayStore](https://play.google.com/store/apps/details?id=xyz.smbcloud.SiGit).
+
 ## Examples
 
 Swift runner:
