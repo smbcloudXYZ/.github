@@ -28,3 +28,6 @@ Ruby runner
 - [Tech Jobs in EU](https://techjobsineu.5mb.app/)
 - [Stay at Scandinavia](https://stayatscandinavia.5mb.app/)
 - NotDAX Digital Assets Exchange
+
+Rust runner
+- [XLP API](https://api.thestablefoundation.org/v1).
